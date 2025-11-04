@@ -1,4 +1,5 @@
 import requests
+import pytest
 
 class TestAPI:
     #BASE_URL="https://reqres.in/api"
